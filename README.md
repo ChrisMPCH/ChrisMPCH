@@ -63,11 +63,6 @@
 
 ---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
 ### 😄 Badges for Fun
 ![](http://ForTheBadge.com/images/badges/built-with-love.svg)
 ![](http://ForTheBadge.com/images/badges/uses-html.svg)
