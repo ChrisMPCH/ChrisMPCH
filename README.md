@@ -54,7 +54,6 @@
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=ChrisMPCH&theme=tokyonight&hide_border=false&show_icons=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ChrisMPCH&theme=tokyonight&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisMPCH&theme=tokyonight&layout=compact)
 
 ---
 
