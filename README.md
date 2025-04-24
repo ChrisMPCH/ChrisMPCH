@@ -33,7 +33,7 @@
 
 ## 🌐 Socials
 <!-- You can add links to your real social media here -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)]([https://linkedin.com](https://www.linkedin.com/in/christopher-meneses-ch%C3%A1vez-6354171a8/))  
 <!-- Add more if you like -->
 
 ---
